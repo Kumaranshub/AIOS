@@ -10,8 +10,6 @@ ForgeOS is an AI-integrated operating system layer designed to make vibe-coding 
 ### 1. Hardware-Aware AI Context
 ForgeOS runs AI agents as **OS-level daemons**, not apps. The AI knows your CPU core availability, RAM headroom, and disk I/O in real time. It dynamically decides how many parallel agents to spin up based on live system state.
 
-> *"Your i5-12450H has 12 threads. ForgeOS uses 8 for agents and leaves 4 for your IDE — automatically."*
-
 ---
 
 ### 2. Persistent Project Memory at the Filesystem Level
